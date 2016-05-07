@@ -1,0 +1,5 @@
+pelias-openaddresses (2.1.0-ubuntu1~xenial1) xenial; urgency=medium
+
+  * Initial Pelias Openaddresses package from https://github.com/pelias/openaddresses/tree/eccb6e1e8
+
+ -- Michal Migurski <mike-launchpad@teczno.com>  Fri, 06 May 2016 20:32:40 -0700
