@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "openaddresses": {
+      "datapath": "/var/tmp/openaddresses",
+      "files": []
+    }
+  }
+}

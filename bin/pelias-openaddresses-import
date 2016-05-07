@@ -1,0 +1,4 @@
+#!/bin/sh -e
+
+cd /usr/lib/nodejs/pelias-openaddresses
+PELIAS_CONFIG=/etc/pelias-config-openaddresses.json node import.js

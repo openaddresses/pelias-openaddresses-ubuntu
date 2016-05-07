@@ -1,3 +1,9 @@
+pelias-openaddresses (2.1.0-ubuntu1~xenial2) xenial; urgency=medium
+
+  * Added config file and executable scripts in /etc and /usr/bin.
+
+ -- Michal Migurski <mike-launchpad@teczno.com>  Sat, 07 May 2016 10:58:06 -0700
+
 pelias-openaddresses (2.1.0-ubuntu1~xenial1) xenial; urgency=medium
 
   * Initial Pelias Openaddresses package from https://github.com/pelias/openaddresses/tree/eccb6e1e8
