@@ -9,4 +9,4 @@ Architecture: all
 Depends: nodejs, nodejs-legacy, npm
 Section: utils
 Homepage: https://github.com/pelias
-Description: Schema helper for Pelias geographic search engine. An open source project sponsored by Mapzen.
+Description: OpenAddresses import pipeline for Pelias geographic search engine. An open source project sponsored by Mapzen.
