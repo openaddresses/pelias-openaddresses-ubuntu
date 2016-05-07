@@ -1,0 +1,5 @@
+[
+  { "longitude": -123.12019, "latitude": 49.274507, "layers": [ "country" ] },
+  { "longitude": 90.051874, "latitude": 28.2479 },
+  { "longitude": 90.051874, "latitude": 28.2479, "layers": [ "disputed" ] }
+]
