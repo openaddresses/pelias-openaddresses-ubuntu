@@ -1,3 +1,9 @@
+pelias-openaddresses (2.1.0-ubuntu1~trusty1) trusty; urgency=medium
+
+  * Adapted for Ubuntu 14.04 release. 
+
+ -- Michal Migurski <mike-launchpad@teczno.com>  Tue, 10 May 2016 20:37:12 -0700
+
 pelias-openaddresses (2.1.0-ubuntu1~xenial2) xenial; urgency=medium
 
   * Added config file and executable scripts in /etc and /usr/bin.
